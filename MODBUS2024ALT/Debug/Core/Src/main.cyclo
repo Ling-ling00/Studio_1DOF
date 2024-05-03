@@ -1,0 +1,14 @@
+../Core/Src/main.c:84:5:main	1
+../Core/Src/main.c:153:6:SystemClock_Config	3
+../Core/Src/main.c:200:13:MX_TIM2_Init	4
+../Core/Src/main.c:245:13:MX_TIM16_Init	3
+../Core/Src/main.c:281:13:MX_USART2_UART_Init	5
+../Core/Src/main.c:327:13:MX_DMA_Init	1
+../Core/Src/main.c:349:13:MX_GPIO_Init	1
+../Core/Src/main.c:386:6:set_shelves	2
+../Core/Src/main.c:394:6:set_goalpoint	1
+../Core/Src/main.c:397:6:run_pointmode	2
+../Core/Src/main.c:405:6:set_home	2
+../Core/Src/main.c:413:6:pick_place	1
+../Core/Src/main.c:417:6:run_jogmode	2
+../Core/Src/main.c:432:6:Error_Handler	1
